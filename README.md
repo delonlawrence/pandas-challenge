@@ -6,7 +6,7 @@ The Py City Schools data focuses on assessing the performance of schools in the 
 
 From the Py City Schools dataset, these among other conclusions can be drawn:
 
-School size:  Smaller schools in the data to perform better on average than larger schools.
+School size:  Smaller schools in the data perform better on average than larger schools.
 
 School type: Charter schools tend to outperform district schools on average.
 
